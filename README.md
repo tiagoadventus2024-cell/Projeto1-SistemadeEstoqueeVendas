@@ -79,3 +79,7 @@ Exemplo de como as informações são organizadas de forma limpa e padronizada n
         "quantidade": 12
     }
 ]
+
+```
+### Colaboradores
+Kaua Barroso Silva
