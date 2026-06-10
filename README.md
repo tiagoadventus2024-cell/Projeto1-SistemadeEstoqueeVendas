@@ -82,7 +82,7 @@ Exemplo de como as informações são organizadas de forma limpa e padronizada n
 
 ```
 ### Colaboradores
-Kaua Barroso Silva 
-Tiago Soares da Cruz
-Erick Maycon da Silva Carneiro
-Argeu Viana Almeida
+## Kaua Barroso Silva 
+## Tiago Soares da Cruz
+## Erick Maycon da Silva Carneiro
+## Argeu Viana Almeida
